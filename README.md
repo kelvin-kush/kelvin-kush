@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kelvin-kush
-- 🌱 I’m currently learning dart and flutter
-- 🤔 I’m looking for help with find the work
+- 🌱 A computer science graduate
 - ⚡ Fun fact: Dart makes my heart flutter
+- I love to talkk about technology and music.
 
 <!---
 kelvin-kush/kelvin-kush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
